@@ -6,28 +6,28 @@
 
 ### About Me
 
-I'm a post-graduate informatics student with a background in economics. I've been into computer programming for the last 5 years as a hobby. While my experience in developing real-world projects is limited, I've completed several assignments of varying sizes and consider myself a talented programmer with a knack for learning quickly and understanding complex concepts in programming and computer science.
+Hey! I'm a post-grad student in informatics with a background in economics. I've been into programming for the last 5 years, mostly as a hobby. While I haven't worked on any big real-world projects yet, I've done a bunch of assignments of different sizes. I pick up new things quickly and have a good understanding of programming and computer science in general.
 
 ### 🔭 I’m currently working on
 - My MSc thesis: building a custom 2D game graphics engine from scratch using C++.
 
 ### 🌱 I’m currently learning
-- Advanced graphics programming techniques.
-- Optimization strategies for game engines.
-- New technologies and frameworks in the game development field.
+- Advanced graphics programming.
+- How to optimize game engines.
+- New tech and frameworks in game development.
 
 ### 👯 I’m looking to collaborate on
-- Open source projects related to game development.
-- Innovative projects that push the boundaries of graphics and interactivity.
+- Open source game development projects.
+- Cool projects that push the limits of graphics and interactivity.
 
 ### 🤔 I’m looking for help with
-- Feedback and suggestions on my 2D game graphics engine.
-- Best practices in optimizing C++ code for game development.
+- Feedback on my 2D game graphics engine.
+- Tips on optimizing C++ code for games.
 
 ### 💬 Ask me about
 - C++ programming.
 - Game development.
-- Economics and informatics.
+- How economics and informatics can mix.
 
 ### 📫 How to reach me
 - Email: [your.email@example.com](mailto:your.email@example.com)
@@ -37,6 +37,6 @@ I'm a post-graduate informatics student with a background in economics. I've bee
 - He/Him
 
 ### ⚡ Fun fact
-- I have a unique blend of skills in economics and informatics, which gives me a different perspective on problem-solving and project development.
+- My mix of economics and informatics gives me a unique take on problem-solving and projects.
 
-Feel free to check out my repositories and get in touch if you want to collaborate or just chat about tech and games!
+Check out my repos and feel free to get in touch if you want to collaborate or just chat about tech and games!
