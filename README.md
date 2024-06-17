@@ -30,8 +30,7 @@ Hey! I'm a post-grad student in informatics with a background in economics. I've
 - How economics and informatics can mix.
 
 ### 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [ganitiskostas@gmail.com](ganitiskostas@gmail.com)
 
 ### 😄 Pronouns
 - He/Him
