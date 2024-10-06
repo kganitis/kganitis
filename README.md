@@ -1,4 +1,4 @@
-![github-header-image](github-header-image.png)
+![github-header-image](github-header-image2.png)
 <!--
 **kganitis/kganitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
