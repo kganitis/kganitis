@@ -10,7 +10,7 @@
 
 ### Currently
 - Recently started a role in **cybersecurity**, focusing on gaining theoritical knowledge and practical experience.
-- Working my MSc thesis: **"Enhancing Endpoint Detection and Incident Response with Velociraptor"**.
+- Working on my MSc thesis: **"Enhancing Endpoint Detection and Incident Response with Velociraptor"**.
 - Building my personal photography portfolio website.
 
 ### I'm also interested in
