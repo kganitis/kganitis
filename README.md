@@ -13,6 +13,6 @@
 - Working my MSc thesis: **"Enhancing Endpoint Detection and Incident Response with Velociraptor"**.
 - Building my personal photography portfolio website.
 
-### 🔎 I'm also interested in
+### I'm also interested in
 - Game development & game engine programming.
 - Machine learning.
