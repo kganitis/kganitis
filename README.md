@@ -4,15 +4,15 @@
 <!--![github-header-image](github-header-image.png)-->
 
 ### About Me
-- I am a postgraduate student in **Informatics** with an undergraduate degree in **Economic Sciences**.
-- I have 3.5 years of experience as a **PL/SQL developer** working on a large-scale payroll system with over 50,000 active employees within a major state organization.
-- I pick up new things quickly and have a good understanding of programming and computer science in general.
+- Postgraduate student in **Informatics** with an undergraduate degree in **Economic Sciences**.
+- 3.5 years of experience as a **PL/SQL developer** working on a large-scale payroll system with over 50,000 active employees.
 
 ### Currently
-- Started a new role in **cybersecurity**, a significant career shift from my programming-focused background to an entirely new field. Focusing on gaining theoritical knowledge and practical experience.
-- Working on my MSc thesis: **"Enhancing Endpoint Detection and Incident Response with Velociraptor"**.
-- Building my personal photography portfolio website.
+- Employed in **Digital Forensics** using **Velociraptor** and **developing custom security automation tools**.
+- Working on my MSc thesis: **"Reinforcement Learning in Agent-Based Macroeconomic Modeling"**.
+- Building my personal fine-art landscape photography portfolio **website**.
 
-### I'm also interested in
+### Fields of personal interest
 - Game development & game engine programming.
+- Computer simulations.
 - Machine learning.
