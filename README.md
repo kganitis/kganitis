@@ -4,15 +4,16 @@
 <!--![github-header-image](github-header-image.png)-->
 
 ### About Me
-- Postgraduate student in **Informatics** with an undergraduate degree in **Economic Sciences**.
-- 3.5 years of experience as a **PL/SQL developer**, working on a large-scale payroll system with over 50,000 active employees.
-- 6 months of working experience in Cybersecurity.
+- Postgraduate student in **Informatics** with an undergraduate degree in **Economic Sciences**
+- 3.5 years of working experience as a **PL/SQL developer** on a large-scale payroll system with over 50,000 active employees
+- 1 year of working experience in the **Security Operations Center (SOC)** of a large organization
+- 6 months of working experience as a **.NET developer**
 
-### Currently
-- Working on my MSc thesis: **"Reinforcement Learning in Macroeconomic Agent-Based Models"**.
-- Building my personal fine-art landscape photography portfolio **website**.
+### Side Projects
+- Working on my **MSc thesis**: *"BAM Engine: Modular Python Framework for the BAM Macroeconomic Model"*
+- Building my personal fine-art landscape photography portfolio **website**
 
-### Fields of personal interest
-- Game development & game engine programming.
-- Computer simulations.
-- Machine learning.
+### Learning
+- Game development & game engine programming
+- Computer simulations
+- Machine learning
