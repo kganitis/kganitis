@@ -3,19 +3,24 @@
 -->
 <!--![github-header-image](github-header-image.png)-->
 
-### Educational Background
-- Postgraduate student in **Informatics** with an undergraduate degree in **Economic Sciences**
+### Main Projects
 
-### Professional Background
-- 3.5 years of working experience as a **PL/SQL developer** on a large-scale payroll system with over 50,000 active employees
-- 1 year of working experience in the **Security Operations Center (SOC)** of a large organization
-- 6 months of working experience as a **.NET developer**, building intelligent automation systems for business workflows.
+- **Agentic AI platform** for automating business operations — 
+  staff interact through natural language while AI agents orchestrate 
+  the underlying systems via the **Model Context Protocol (MCP)**
+- **BAM Engine** — A Python implementation of the BAM (Bottom-Up Adaptive Macroeconomics)
+  agent-based model. Simulates households, firms, and banks interacting across labor, credit,
+  and goods markets using an Entity-Component-System architecture with vectorized NumPy operations.
 
-### Side Projects in Development
-- Working on my **MSc thesis**: *"BAM Engine: Modular Python Framework for the BAM Macroeconomic Model"*
-- Building my personal fine-art landscape photography portfolio **website**
+### Side Projects
 
-### Currently Learning
-- Game development & game engine programming
-- Computer simulations
-- Machine learning
+- Personal fine-art landscape **photography portfolio**
+
+### Background
+
+- .NET development for Agentic AI systems
+- Python development for agent-based simulations
+- PL/SQL development for large-scale payroll systems
+- Security Operations Center (SOC) experience — developed internal security tooling
+- MSc Informatics, University of Piraeus
+- BSc Economic Sciences, Aristotle University of Thessaloniki
