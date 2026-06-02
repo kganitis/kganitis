@@ -3,7 +3,7 @@
 -->
 <!--![github-header-image](github-header-image.png)-->
 
-### Main Projects
+### Projects
 
 - **Agentic AI platform** for automating business operations — 
   staff interact through natural language while AI agents orchestrate 
@@ -11,10 +11,6 @@
 - **BAM Engine** — A Python implementation of the BAM (Bottom-Up Adaptive Macroeconomics)
   agent-based model. Simulates households, firms, and banks interacting across labor, credit,
   and goods markets using an Entity-Component-System architecture with vectorized NumPy operations.
-
-### Side Projects
-
-- Personal fine-art landscape **photography portfolio**
 
 ### Background
 
