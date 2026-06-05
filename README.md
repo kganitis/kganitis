@@ -3,20 +3,20 @@
 -->
 <!--![github-header-image](github-header-image.png)-->
 
-### Projects
+### Present
 
-- **Agentic AI platform** for automating business operations — 
-  staff interact through natural language while AI agents orchestrate 
-  the underlying systems via the **Model Context Protocol (MCP)**
-- **BAM Engine** — A Python implementation of the BAM (Bottom-Up Adaptive Macroeconomics)
-  agent-based model. Simulates households, firms, and banks interacting across labor, credit,
-  and goods markets using an Entity-Component-System architecture with vectorized NumPy operations.
+- **Tour operations platform** (private client, .NET 9): LLM-based support-ticket triage with Azure OpenAI + Semantic Kernel, ERP bridge for booking management, and an MCP server exposing domain tools to AI agents. ASP.NET Core, PostgreSQL, SignalR, Docker, Azure DevOps CI/CD.
+- **[BAM Engine](https://github.com/kganitis/bam-engine)**: agent-based macroeconomics in Python. Simulates households, firms, and banks across labor, credit, and goods markets on a vectorized, ECS-inspired NumPy core. MSc thesis project.
 
-### Background
+### Past
+- **Public-Sector Payroll System**: backend developer on a thick-database Oracle stack, maintaining and extending a payroll system for a large government organization, originally built circa 2005. All payroll logic implemented in PL/SQL on Oracle Database, with an Oracle Forms front-end.
+- **Internal Security Tooling**: developed in-house tools for the cybersecurity department of a large organization, supporting security monitoring, technical security assessments, and information security compliance workflows.
 
-- .NET development for Agentic AI systems
-- Python development for agent-based simulations
-- PL/SQL development for large-scale payroll systems
-- Security Operations Center (SOC) experience — developed internal security tooling
+### Future
+
+- **Handmade game development** (C++): building games from scratch with custom engines — data-oriented design, arena-based memory, and ownership of every line.
+
+### Academic Background
+
 - MSc Informatics, University of Piraeus
 - BSc Economic Sciences, Aristotle University of Thessaloniki
