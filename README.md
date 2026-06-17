@@ -14,7 +14,7 @@
 
 ### Future
 
-- **Handmade game development** (C++): building games from scratch with custom engines — data-oriented design, arena-based memory, and ownership of every line.
+- **Handmade game development** (C++): building games from scratch with custom engines.
 
 ### Academic Background
 
